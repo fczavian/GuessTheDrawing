@@ -1,9 +1,5 @@
 # 🎨 Guess The Drawing — The #1 Multiplayer Drawing Game & Clan Wars Discord Bot
 
-> 🌟 **SEO Keywords**: Guess The Drawing, Discord Drawing Game Bot, Discord Pictionary Bot, Skribbl Discord Bot, Discord Minigame Bot, Clan Wars Discord Bot, Discord Quiz Bot, Discord Trivia Bot, Discord Gaming Bot, Canvas Profile Card Bot.
-
----
-
 ## 🚀 About Guess The Drawing
 
 **Guess The Drawing** is the ultimate multiplayer drawing guessing minigame and Clan Wars Discord Bot designed to bring your Discord server to life! 

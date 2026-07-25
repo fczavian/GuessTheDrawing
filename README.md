@@ -1,14 +1,27 @@
 # 🎨 Guess The Drawing — The #1 Multiplayer Drawing Game & Clan Wars Discord Bot
 
+<p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1530031497174585475&permissions=277025778688&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/🤖_ADD_BOT_TO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Add Bot to Discord">
+  </a>
+  <a href="https://discord.gg/F5yKuwZfhJ">
+    <img src="https://img.shields.io/badge/💬_JOIN_SUPPORT_SERVER-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Join Support Server">
+  </a>
+</p>
+
+> ### 🚀 [**👉 CLICK HERE TO INVITE GUESS THE DRAWING TO YOUR DISCORD SERVER 👈**](https://discord.com/api/oauth2/authorize?client_id=1530031497174585475&permissions=277025778688&scope=bot%20applications.commands)
+
+---
+
 ## 🚀 About Guess The Drawing
 
-**Guess The Drawing** is the ultimate multiplayer drawing guessing minigame and Clan Wars Discord Bot designed to bring your Discord server to life! 
+**Guess The Drawing** is a feature-packed multiplayer drawing guessing minigame, trivia engine, and Clan Wars Discord Bot designed to bring your Discord server to life!
 
 Watch drawings appear in your server chat, race against your friends to guess the correct words in real time, earn XP to level up through **21 custom badge ranks**, flex your **custom 2D Canvas profile cards**, and build or lead your **Clan to global dominance in 5-round head-to-head Clan Wars**!
 
 ---
 
-## 🔥 Why Add Guess The Drawing to Your Server?
+## 🔥 Key Features
 
 * 🎯 **Fast-Paced Drawing Gameplay**: Endless drawing challenges with automated hint reveals every 30 seconds.
 * 🖼️ **Cyberpunk 2D Canvas Profile Cards (`/profile`)**: Generate high-definition, dynamic 2D Canvas graphics with custom avatar frames, stats, rank tags, and auto-fitting text scaling.
@@ -111,12 +124,14 @@ Players earn XP for every correct drawing guess ($\text{Level} = \lfloor\sqrt{\t
 
 ## 📖 How to Start Playing in 3 Simple Steps
 
-1. **Invite the Bot**: Use `/invite` to add Guess The Drawing to your Discord server.
-2. **Setup Channel**: Admins run `/config setup #channel-name` to designate a game channel.
-3. **Start Game**: Run `/start` in the game channel to launch your first drawing game session!
+1. **[👉 Add Bot to Your Discord Server](https://discord.com/api/oauth2/authorize?client_id=1530031497174585475&permissions=277025778688&scope=bot%20applications.commands)**: Click the invite link to add Guess The Drawing to your server.
+2. **Setup Game Channel**: Server Admins run `/config setup #channel-name` to designate a game channel.
+3. **Start Playing**: Run `/start` in the game channel to launch your first drawing game session!
 
 ---
 
 <p align="center">
-  <b>Guess The Drawing — Bringing Fun & Friendly Competition to Discord Servers Worldwide!</b>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1530031497174585475&permissions=277025778688&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/🤖_ADD_BOT_TO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Add Bot to Discord">
+  </a>
 </p>

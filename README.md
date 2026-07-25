@@ -117,7 +117,7 @@ Players earn XP for every correct drawing guess ($\text{Level} = \lfloor\sqrt{\t
 | **Level 700 – 799** | `Sovereign` | 🎖️ Imperial Amber Tier |
 | **Level 800 – 899** | `Ethereal` | 👻 Ghost White Tier |
 | **Level 900 – 999** | `Omnipotent` | 🌌 Void Black Tier |
-| **Level 1000 – 1499**| `Godlike` | ⚡ Electric Crimson Tier |
+| **Level 1000 – 1499**| `Supreme Master` | ⚡ Electric Crimson Tier |
 | **Level 1500+** | `Infinite` | ♾️ Cosmic Rainbow Tier |
 
 ---

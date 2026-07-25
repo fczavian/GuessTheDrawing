@@ -107,7 +107,7 @@ Players earn XP for every correct drawing guess ($\text{Level} = \lfloor\sqrt{\t
 | **Level 40 – 49** | `Legend` | 🔥 Orange Tier |
 | **Level 50 – 74** | `Mythic` | ⚡ Yellow Tier |
 | **Level 75 – 99** | `Immortal` | 🌌 Deep Violet Tier |
-| **Level 100 – 149** | `Divine` | ✨ Bright Gold Tier |
+| **Level 100 – 149** | `Ascendant` | ✨ Bright Gold Tier |
 | **Level 150 – 199** | `Celestial` | 🌠 Sky Blue Tier |
 | **Level 200 – 299** | `Ascended` | 💫 Platinum Tier |
 | **Level 300 – 399** | `Titan` | 🛡️ Metallic Gray Tier |

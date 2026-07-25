@@ -1,4 +1,4 @@
-# 🎨 Guess The Drawing — The #1 Multiplayer Drawing Game & Clan Wars Discord Bot
+# 🎨 Guess The Drawing. The #1 Multiplayer Drawing Game & Clan Wars Discord Bot
 
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=1530031497174585475&permissions=277025778688&scope=bot%20applications.commands">
